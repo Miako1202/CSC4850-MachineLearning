@@ -1,1 +1,1 @@
-# CSC4850-MachineLearning-Assignment2
+# CSC4850-MachineLearning
